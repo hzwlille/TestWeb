@@ -1,0 +1,161 @@
+
+    {
+        "description": "Pages to be tested Attention: URL needs to be begun with http or https to make the test succeed"
+    }, 
+    {
+        "pages": [
+            [
+                {
+                    "url": "google.com"
+                }, 
+                {
+                    "url": "youtube.com"
+                }, 
+                {
+                    "url": "facebook.com"
+                }, 
+                {
+                    "url": "baidu.com"
+                }, 
+                {
+                    "url": "yahoo.com"
+                }, 
+                {
+                    "url": "wikipedia.org"
+                }, 
+                {
+                    "url": "amazon.com"
+                }, 
+                {
+                    "url": "twitter.com"
+                }, 
+                {
+                    "url": "qq.com"
+                }, 
+                {
+                    "url": "live.com"
+                }, 
+                {
+                    "url": "google.co.in"
+                }, 
+                {
+                    "url": "taobao.com"
+                }, 
+                {
+                    "url": "bing.com"
+                }, 
+                {
+                    "url": "google.co.jp"
+                }, 
+                {
+                    "url": "msn.com"
+                }, 
+                {
+                    "url": "yahoo.co.jp"
+                }, 
+                {
+                    "url": "linkedin.com"
+                }, 
+                {
+                    "url": "sina.com.cn"
+                }, 
+                {
+                    "url": "instagram.com"
+                }, 
+                {
+                    "url": "vk.com"
+                }, 
+                {
+                    "url": "weibo.com"
+                }, 
+                {
+                    "url": "google.ru"
+                }, 
+                {
+                    "url": "yandex.ru"
+                }, 
+                {
+                    "url": "google.de"
+                }, 
+                {
+                    "url": "ebay.com"
+                }, 
+                {
+                    "url": "hao123.com"
+                }, 
+                {
+                    "url": "reddit.com"
+                }, 
+                {
+                    "url": "google.co.uk"
+                }, 
+                {
+                    "url": "amazon.co.jp"
+                }, 
+                {
+                    "url": "mail.ru"
+                }, 
+                {
+                    "url": "t.co"
+                }, 
+                {
+                    "url": "google.fr"
+                }, 
+                {
+                    "url": "pinterest.com"
+                }, 
+                {
+                    "url": "google.com.br"
+                }, 
+                {
+                    "url": "netflix.com"
+                }, 
+                {
+                    "url": "tmall.com"
+                }, 
+                {
+                    "url": "google.it"
+                }, 
+                {
+                    "url": "360.cn"
+                }, 
+                {
+                    "url": "microsoft.com"
+                }, 
+                {
+                    "url": "onclickads.net"
+                }, 
+                {
+                    "url": "wordpress.com"
+                }, 
+                {
+                    "url": "google.es"
+                }, 
+                {
+                    "url": "imgur.com"
+                }, 
+                {
+                    "url": "blogspot.com"
+                }, 
+                {
+                    "url": "tumblr.com"
+                }, 
+                {
+                    "url": "paypal.com"
+                }, 
+                {
+                    "url": "sohu.com"
+                }, 
+                {
+                    "url": "naver.com"
+                }, 
+                {
+                    "url": "xvideos.com"
+                }, 
+                {
+                    "url": "google.com.mx"
+                }
+            ]
+        ]
+    }
+
